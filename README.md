@@ -1,2 +1,2 @@
 # NFL Yard Prediction Model using LASSO-based SGD
-To get an idea of the result of the project, review the pptx. To look at the code
+To get an idea of the result of the project, review the pptx. To look at the code, review the updated_SGD_Results_mixed_norm.m file. This contains SGD, vanilla gradient descent, PCA Regression, and several visualizations. To get an idea of the features used for this project review the pptx, to create your own dataset, use the dataset_generation jupyter file.
